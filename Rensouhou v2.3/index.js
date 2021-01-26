@@ -58,4 +58,4 @@ fs.readdir("./tba", (err, files) => {
   });
 });
 
-bot.login("NDQ1NzM0NDI2MTY1Mzc5MDgz.Dd3YcA.Q-FRfqQQcMnZvKg-NwTaNa9spRw");
+bot.login("REDACTED");
