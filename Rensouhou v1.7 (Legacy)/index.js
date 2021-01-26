@@ -345,4 +345,4 @@ bot.on("message", message => {
   }
 });
 
-bot.login("NDQxMzc3NDA1NTg0NjcwNzM0.XN3Z_g.aKVqd2oAPKKdDP7TSi-rpi35g78");
+bot.login("REDACTED");
