@@ -1,0 +1,5 @@
+exports.run = (bot, message, args) => {
+    const sayings = ["If we input the bandwidth, we can get to the XML bandwidth through the bluetooth XML bandwidth!", "Use the multi-byte SQL panel, then you can quantify the multi-byte panel!", "compressing the monitor won't do anything, we need to index the haptic RSS monitor!", "You can't parse the array without hacking the virtual AGP array!", "You can't calculate the microchip without generating the virtual SQL microchip!", "Try to connect the SDD port, maybe it will connect the back-end port!", "I'll synthesize the back-end CSS matrix, that should matrix the CSS matrix!", "If we program the application, we can get to the PNG application through the multi-byte PNG application!", ];
+    var result = Math.floor((Math.random() * sayings.length) + 0);
+    message.channel.send(`${sayings[result]}`)
+  }

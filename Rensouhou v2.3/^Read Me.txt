@@ -1,0 +1,33 @@
+---------------------------------------------------------------------
+Rensouhou-bot version 2.3.0
+Experimental Development Version
+
+Status: Retired as of 6/20/2020
+
+On Saturday, June 13 at 7:56 a.m. EST Rensouhou's hosting service began blocking automatic ping services.
+The money and time required to keep Rensouohou fully operational became too high for our group to maintain.
+Because of this, we will were forced to retire Rensouhou as the Peachtree Robotics Alliance's main bot.
+The bot was finally retired on June 20th 2020, after a fruitful two year long career.
+----------------------------------------------------------------------
+
+RENSOUHOU VERSION 2.3
+
+Rensouhou is a jack of all trades type Discord bot programmed in Node.js and is based on the Discord.js framework
+
+|----FEATURES----|
+
+- General Administrative Commands
+	- Kicking/Banning/Muting of unruly users.
+	- Purge large ammounts of spam.
+	- Lock down the server in the event of a raid.
+
+- Background Monitoring
+	- Creates a message log that logs new messages, message deletions, and message edits.
+	- Automatically welcomes and assigns roles to new users.
+	- Able to count users and list when they joined.
+
+- Fun Commands
+	- Random chance dice rolls, ratings, coin flips, etc.
+	- Easy to set up polls.
+	- Fix My Bot, Hackerman, and other randomly generated phrases.
+	- Able to play Cotton Eye Joe and Hello World in a voice call.

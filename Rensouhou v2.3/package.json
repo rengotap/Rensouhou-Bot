@@ -1,0 +1,24 @@
+{
+    "name": "rensouhou",
+    "version": "1.0.0",
+    "description": "does bot things",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index"
+    },
+    "author": "Me",
+    "license": "ISC",
+    "dependencies": {
+      "discord.js": "^11.4.2",
+      "enmap": "^4.8.4",
+      "express": "^4.16.4",
+      "moment": "^2.24.0",
+      "moment-duration-format": "^2.2.2",
+      "better-sqlite3": "^5.4.0",
+      "file-system": "^2.2.2",
+      "node-opus": "^0.3.1",
+      "jquery": "^3.4.1",
+      "tba-api-v3client": "^3.3.1"
+    }
+  }
